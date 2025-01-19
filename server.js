@@ -29,7 +29,7 @@ app.get('/assistant/greet',(req,res)=>{
 
   });
   app.listen(port,()=>{
-    console.log("bruce server up and running successfulyy")
+    console.log("brucee server up and running successfulyy")
 
   })
 
